@@ -4,7 +4,7 @@
 
 // SPDX-License-Identifier: UNLISCENSED
 pragma solidity 0.8.7;
-contract BITJIO  {
+contract metalife  {
     string public name = "MetaLife";
     string public symbol = "MLE";
     uint256 public totalSupply =210000*10**18; // 10 Cr tokens
